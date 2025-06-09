@@ -35,3 +35,4 @@ This Next.js app sells digital coloring books using Stripe for payments and AWS 
 Your site will be live at `https://<your-project>.vercel.app`.
 # coloring-book-store
 # coloring-book-store
+![image alt](https://github.com/jonny8619/coloring-book-store/blob/main/Screenshot%202025-06-09%20at%2022.03.42.png?raw=true)
